@@ -1,0 +1,65 @@
+
+.head-image{
+  background-image: url(images/desk-copy.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  height: 400px;
+}
+
+/*
+.head-image{
+  background-image: url(images/desk.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  height: 600px;
+}
+*/
+/*
+.nav-background{
+  background-color: purple;
+  border-radius: 25px;
+}
+*/
+.font-top{
+  color: white;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+}
+
+.thumb {
+  margin-bottom: 2px;
+  height: 200px;
+  width: 200px;
+}
+
+.get-it{
+  background-image: url(images/get-it.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  width: 300px;
+}
+
+.mottos{
+  background-image: url(images/mottos.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  width: 300px;
+}
+
+.open-up{
+  background-image: url(images/open-up.jpg);
+  background-color: white;
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  width: 300px;
+}
