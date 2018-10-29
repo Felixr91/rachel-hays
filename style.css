@@ -1,4 +1,4 @@
-
+/*
 .head-image{
   background-image: url(images/desk-copy.jpg);
   background-color: white;
@@ -6,16 +6,16 @@
   background-position: center center;
   height: 400px;
 }
+*/
 
-/*
 .head-image{
   background-image: url(images/desk.jpg);
   background-color: white;
   background-size: cover;
   background-position: center center;
-  height: 600px;
+  height: 800px;
 }
-*/
+
 /*
 .nav-background{
   background-color: purple;
@@ -24,6 +24,7 @@
 */
 .font-top{
   color: white;
+  text-shadow: 0 0 5px black;
 }
 
 .center-text {
